@@ -94,6 +94,8 @@ catalog = {"table": 20, "bookcase": 30, "desk": 40, "fridge": 50, "bed": 35}
 basket = []
 money = 200
 sum = 0
+
+print("welcome to furniture shop")
 while True:
     function = input(
         "choose the action:   show your catalog / show the product price / check my wallet / add the product / print my basket /  buy / remove / exit / show my sum : ")
